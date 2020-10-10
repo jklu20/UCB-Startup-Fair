@@ -1,0 +1,87 @@
+/* Main CSS */
+
+#main-container
+{
+  min-width: 100%;
+  min-height: 100%;
+}
+
+#footer
+{
+  border-top: 1px solid brown;
+  margin-top: 10px;
+}
+
+#messages
+{
+  width: 485px;
+}
+
+/* Common */
+#messages .message
+{
+  padding: 0.5em 0 0.5em 0.5em;
+  margin-bottom: 2.5em;
+  border-left: 4px solid #ddd;
+}
+
+#messages .message p
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+#error
+{
+  color: #A15151;
+  font-size: 13px;
+}
+#notice
+{
+  color: #408140;
+  font-size: 13px;
+}
+
+/* forms */
+
+form .field
+{
+  display: block;
+  padding-bottom: 15px;
+}
+
+form .company_description {
+  width: 90%;
+  height: 75px;
+}
+
+form .company_content
+{
+  margin-bottom: 50px;
+}
+
+.field label {
+  display: inline-block;
+  width: 6em;
+}
+
+div .form_errors
+{
+  margin: 2em 0 2em 0;
+  display: block;
+  border-left: 3px solid #9E4F4F;
+  padding: 0.5em 0 0.5em 0.5em;
+  color: #9E4F4F;
+}
+
+div .field_with_errors
+{
+  display: inline-block;
+  color: #9E4F4F;
+}
+
+div.thumbnail_display {
+  width: 80px;
+  line-height: 80px;
+  text-align: center;
+}

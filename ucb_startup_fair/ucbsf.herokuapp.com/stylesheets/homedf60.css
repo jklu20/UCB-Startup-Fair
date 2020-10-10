@@ -1,0 +1,23 @@
+#home-content
+{
+  background: green;
+}
+
+.organizer_link
+{
+  color:#7d7d7b;
+}
+
+.organizer_link:hover
+{
+  text-decoration:underline;
+  color:#7d7d7b;
+}
+
+
+.homepic{
+  display: inline-block;
+  text-align: center;
+  width: 50%;
+  height: auto;
+}

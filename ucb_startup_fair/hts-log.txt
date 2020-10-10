@@ -1,0 +1,58 @@
+HTTrack3.49-2 launched on Fri, 09 Oct 2020 16:51:09 at http://https://ucbsf.herokuapp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://ucbsf.herokuapp.com/ -O "/home/kevinlu/websites/ucb_startup_fair" -n -%P -N0 -s2 -p7 -D -d -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:51:09	Warning: 	Cache: damaged cache, trying to repair
+16:51:09	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+16:51:09	Warning: 	Cache: error trying to open the cache
+16:51:10	Warning: 	HTML file (8754 bytes) retransferred due to lack of cache: https://ucbsf.herokuapp.com/
+16:51:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ucbsf.herokuapp.com/javascripts/jquery.js?1602286445
+16:51:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ucbsf.herokuapp.com/images/startupfairwebpic.jpg
+16:52:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ucbsf.herokuapp.com/images/project_nav_arrows.png
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/default/sprite.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/default/sprite_x.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/default/sprite_y.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/default/sprite_next.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/default/sprite_prev.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/default/default_thumb.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/default/loader.gif (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/light_rounded/sprite.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/light_rounded/btnNext.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/light_rounded/btnPrevious.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/dark_rounded/sprite.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/dark_rounded/contentPattern.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/dark_rounded/btnNext.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/dark_rounded/btnPrevious.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/dark_rounded/loader.gif (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/dark_square/loader.gif (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/dark_square/sprite.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/dark_square/btnNext.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/dark_square/btnPrevious.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/light_square/sprite.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/light_square/btnNext.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/light_square/btnPrevious.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/facebook/sprite.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/facebook/contentPatternTop.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/facebook/contentPatternLeft.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/facebook/contentPatternRight.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/facebook/loader.gif (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/facebook/btnNext.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/facebook/btnPrevious.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/facebook/contentPatternBottom.png (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/facebook/default_thumbnail.gif (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/prettyPhoto/light_rounded/loader.gif (from https://ucbsf.herokuapp.com/stylesheets/prettyPhoto.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/stylesheets/images/field_bkg.png (from https://ucbsf.herokuapp.com/stylesheets/style.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/icon_dribbble.png (from https://ucbsf.herokuapp.com/stylesheets/style.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/icon_rss.png (from https://ucbsf.herokuapp.com/stylesheets/style.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/black_alpha_50.png (from https://ucbsf.herokuapp.com/stylesheets/style.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/lightbox_icon.png (from https://ucbsf.herokuapp.com/stylesheets/style.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/slideshow_bullets.png (from https://ucbsf.herokuapp.com/stylesheets/style.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/stylesheets/images/btn_bkg.png (from https://ucbsf.herokuapp.com/stylesheets/style.css?1602286445)
+16:52:28	Error: 	"Not Found " (404) at link https://ucbsf.herokuapp.com/images/comment_marker.gif (from https://ucbsf.herokuapp.com/stylesheets/style.css?1602286445)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 19 seconds : 77 links scanned, 39 files written (4135762 bytes overall) [2246470 bytes received at 28436 bytes/sec], 11.4 requests per connection
+(40 errors, 7 warnings, 0 messages)

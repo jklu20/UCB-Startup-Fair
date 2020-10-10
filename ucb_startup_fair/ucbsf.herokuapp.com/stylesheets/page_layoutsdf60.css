@@ -1,0 +1,74 @@
+div .content {
+	padding-bottom: 50px;
+}
+
+/*One Half Layout*/
+div.two_column .left {
+	width: 50%;
+	float: left;
+}
+
+div.two_column .right {
+	width: 50%;
+	float: right;
+}
+
+
+div.left .content {
+	padding-right: 50px;
+}
+
+div.right .content {
+	padding-left: 50px;
+}
+
+/*One Third Layout*/
+div.two_column_third .left {
+	width: 33%;
+	float: left;
+}
+
+div.two_column_third .right {
+	width: 67%;
+	float: right;
+}
+
+div.underline {
+	border-bottom: 1px solid #DDD;
+	margin-bottom: 20px;
+}
+
+img.bounded_banner {
+  max-width: 450px;
+  max-height: 450px;
+}
+
+div.compound_header {
+  padding-bottom: 25px;
+}
+
+div.compound_header h2
+{
+  display: inline-block;
+  padding-right: 75px;
+}
+
+div.compound_header input {
+  display: inline-block;
+}
+
+div#startup-container {
+	background-image: url("../images/sapling.png");
+	background-repeat: no-repeat;
+	background-position: right top;
+	height: 396px;
+	padding-bottom: 0px;
+}
+
+div#student-container {
+	background-image: url("../images/bear.png");
+	background-repeat: no-repeat;
+	background-position: right 50px;
+	height: 396px;
+	padding-bottom: 0px;
+}
